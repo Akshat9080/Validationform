@@ -1,0 +1,18 @@
+body{
+  background-image: url(https://i.pinimg.com/originals/2c/4f/af/2c4faf4f55e0c5a91da277ad73c791de.jpg);
+} 
+
+#box{
+    background-color:#92a8d1;;
+    height:300px;
+    width: 700px;
+    visibility: hidden;
+}
+
+body{
+    background-color:aqua;
+}
+
+#box.show{
+  visibility: visible;
+}
